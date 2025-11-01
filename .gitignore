@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.ipynb_checkpoints/
+outputs/
+force_plots/
+*.html
+*.png
+.DS_Store
